@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    color: gray;
+    font-size: 13px;
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    margin-top: 30px;
+    width: 40%;
+    margin-left: 3%;
+    padding-left: 2%;
+
+}
+.display-flex{
+    display: flex;
+
+}
+.half-width img{
+    width: 100%;
+}
+.link-botton{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato); 
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+
+
+}
+.about{
+    background-image: url(images/shapes/7.png);
+}
